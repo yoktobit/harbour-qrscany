@@ -1,0 +1,4 @@
+qzxing
+rpm/*.spec
+*.user
+Thumbs.db
